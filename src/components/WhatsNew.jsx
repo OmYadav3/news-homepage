@@ -3,7 +3,7 @@ import React from 'react'
 const WhatsNew = () => {
   return (
     <div>
-      <div className="section w-[68%] ml-8 bg-zinc-900 text-white p-4 flex flex-col gap-2">
+      <div className="section md:w-[68%] md:ml-8 bg-darkblue text-white p-6 flex flex-col gap-2 ">
         <div className='text-5xl font-bold text-yellow-500'>New</div>
         <div className='mt-6'>
             <h1  className='text-2xl font-semibold mt-4 hover:text-yellow-500'>Hydrogen VS Electric Cars</h1>
